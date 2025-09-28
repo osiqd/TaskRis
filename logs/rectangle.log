@@ -1,0 +1,3444 @@
+сент. 29, 2025 12:07:39 AM app.model.shapes.Rectangle <init>
+FINE: Rectangle created at (5,0,5,0) size 15,0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:00 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:01 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:12 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:13 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:17 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:22 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:23 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:25 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:25 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:25 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:25 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:25 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:25 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:25 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:26 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) outside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle contains
+FINEST: Point (180,0,543,2) inside rectangle
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:30 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:31 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) outside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle contains
+FINEST: Point (250,4,516,8) inside rectangle
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:32 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:33 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:45 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 100.0
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:08:52 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 400.0
+сент. 29, 2025 12:08:52 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:06 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:07 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:20 AM app.model.shapes.Rectangle contains
+FINEST: Point (308,8,132,0) outside rectangle
+сент. 29, 2025 12:09:20 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:21 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:24 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:28 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:41 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 400.0
+сент. 29, 2025 12:09:41 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 400.0
+сент. 29, 2025 12:09:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:46 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 400.0
+сент. 29, 2025 12:09:46 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:47 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 400.0
+сент. 29, 2025 12:09:47 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:48 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 400.0
+сент. 29, 2025 12:09:48 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:49 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 400.0
+сент. 29, 2025 12:09:49 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:09:49 AM app.model.shapes.Rectangle setSize
+FINE: Setting rectangle size to: 400.0
+сент. 29, 2025 12:09:49 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:08 AM app.model.shapes.Rectangle contains
+FINEST: Point (227,2,376,8) inside rectangle
+сент. 29, 2025 12:10:08 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:08 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:08 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:08 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:08 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:08 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:08 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle contains
+FINEST: Point (156,0,336,0) inside rectangle
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle contains
+FINEST: Point (102,4,263,2) outside rectangle
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle contains
+FINEST: Point (102,4,263,2) outside rectangle
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle contains
+FINEST: Point (102,4,263,2) outside rectangle
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle contains
+FINEST: Point (102,4,263,2) outside rectangle
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle contains
+FINEST: Point (102,4,263,2) outside rectangle
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle contains
+FINEST: Point (102,4,263,2) outside rectangle
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle contains
+FINEST: Point (102,4,263,2) outside rectangle
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:09 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:11 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:11 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:11 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:11 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:11 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:11 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:11 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:17 AM app.model.shapes.Rectangle contains
+FINEST: Point (269,6,348,8) inside rectangle
+сент. 29, 2025 12:10:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:17 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:18 AM app.model.shapes.Rectangle contains
+FINEST: Point (269,6,348,8) inside rectangle
+сент. 29, 2025 12:10:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:18 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:20 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:20 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:20 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:20 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:20 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:20 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
+сент. 29, 2025 12:10:20 AM app.model.shapes.Rectangle draw
+FINER: Drawing rectangle on canvas
